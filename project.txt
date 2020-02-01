@@ -1,3 +1,9 @@
 my name is rajan
 naam to suna hoga
+hjsgdiuasgfdiuhadsk
+<<<<<<< HEAD
+
+=======
+chalchal aapne bap ko mat sikha
 svgjkjuhygtfrd
+>>>>>>> 0a2d1b0489ad1aafaf09dd0db5dd12047d5755cd
